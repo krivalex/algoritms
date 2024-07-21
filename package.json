@@ -1,0 +1,17 @@
+{
+  "name": "algoritms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "test": "test"
+  },
+  "author": "krivalex",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.14.11",
+    "typescript": "^5.5.3"
+  }
+}
